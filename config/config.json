@@ -1,0 +1,19 @@
+{
+  "daemons": [
+    {
+      "date": "2018-02-25",
+      "originCode": "FRFNI",
+      "destinationCode": "FRPAR"
+    },
+    {
+      "date": "2018-03-04",
+      "originCode": "FRFNI",
+      "destinationCode": "FRPAR"
+    },
+    {
+      "date": "2018-03-04",
+      "originCode": "FRPAR",
+      "destinationCode": "FRFNI"
+    }
+  ]
+}

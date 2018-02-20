@@ -10,8 +10,10 @@
   "license": "ISC",
   "dependencies": {
     "async": "^2.6.0",
+    "command-line-args": "^5.0.2",
     "lodash": "^4.17.5",
     "moment": "^2.20.1",
+    "node-cron": "^1.2.1",
     "request": "^2.83.0"
   }
 }
