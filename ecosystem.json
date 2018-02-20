@@ -1,0 +1,16 @@
+{
+  "apps": [
+    {
+      "name": "sncf-daemon",
+      "script": "index.js",
+      "exec_mode": "fork",
+      "instances": 1,
+      "env": {
+        "TGVMAX_NUMBER": "",
+        "BIRTH_DATE": "",
+        "FREE_API_USER": "",
+        "FREE_API_PASSWORD": ""
+      }
+    }
+  ]
+}
